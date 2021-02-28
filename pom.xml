@@ -10,7 +10,7 @@
 
     <groupId>org.webjars</groupId>
     <artifactId>datatables-responsive</artifactId>
-    <version>2.2.7</version>
+    <version>2.2.8-SNAPSHOT</version>
     <name>DataTables Responsive</name>
     <description>WebJar for DataTables Responsive</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>https://github.com/webjars/datatables-responsive</url>
         <connection>scm:git:https://github.com/webjars/datatables-responsive.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/datatables-responsive.git</developerConnection>
-        <tag>datatables-responsive-2.2.7</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
